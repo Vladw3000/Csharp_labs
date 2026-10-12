@@ -103,7 +103,8 @@
 
 ### Тестирование
 
-<img width="261" height="183" alt="image" src="https://github.com/user-attachments/assets/9091c1dd-7100-4f5e-88f4-b244623a9e65" />
+<img width="260" height="335" alt="image" src="https://github.com/user-attachments/assets/8e8fdc73-c302-467e-888a-9798c77087a3" />
+
 
 
 ---
@@ -146,11 +147,11 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="290" height="218" alt="image" src="https://github.com/user-attachments/assets/69cb79ae-5968-4c87-8b23-862ca8c7fe67" />
+<img width="299" height="186" alt="image" src="https://github.com/user-attachments/assets/ac87a4a1-f4ae-4e77-b789-06ed5d92588b" />
+<img width="265" height="184" alt="image" src="https://github.com/user-attachments/assets/ca740e3a-8932-45b0-8bfa-2c96f9fb458b" />
 
-**Пример тестовых данных:**
-* Ввод: `5`, `7` -> Ожидаемый вывод: `5 < 7`
-* Ввод: `4`, `4` -> Ожидаемый вывод: `4 == 4`
+
 
 ---
 
@@ -169,11 +170,10 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="278" height="225" alt="image" src="https://github.com/user-attachments/assets/304737b3-6b25-4510-888f-db6bf6252046" />
+<img width="263" height="238" alt="image" src="https://github.com/user-attachments/assets/02d1bdad-bff6-4f33-9592-fb7604caaa84" />
 
-**Пример тестовых данных:**
-* Ввод: `5`, `7`, `2` -> Ожидаемый вывод: `True`
-* Ввод: `8`, `-1`, `4` -> Ожидаемый вывод: `False`
+
 
 ---
 
@@ -194,12 +194,10 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="292" height="141" alt="image" src="https://github.com/user-attachments/assets/83c24417-30d4-4467-8127-da65cbaacf8c" />
+<img width="291" height="136" alt="image" src="https://github.com/user-attachments/assets/278e00a6-e5b2-4d52-b0cf-029e35857784" />
+<img width="271" height="136" alt="image" src="https://github.com/user-attachments/assets/a5633dae-6686-4fe8-a2e1-fa6822c0008a" />
 
-**Пример тестовых данных:**
-* Ввод: `31` -> Ожидаемый вывод: `31 год`
-* Ввод: `44` -> Ожидаемый вывод: `44 года`
-* Ввод: `5` -> Ожидаемый вывод: `5 лет`
 
 ---
 
@@ -218,14 +216,8 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="326" height="199" alt="image" src="https://github.com/user-attachments/assets/b5a01b97-8d29-4015-9561-c0325404616a" />
 
-**Пример тестовых данных:**
-* Ввод: `четверг`
-* Ожидаемый вывод: 
-  четверг
-  пятница
-  воскресенье
 
 ---
 
