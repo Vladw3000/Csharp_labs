@@ -17,13 +17,9 @@
 
 ### Тестирование
 
-<img width="269" height="203" alt="image" src="https://github.com/user-attachments/assets/1d327769-7f0c-4193-9998-265a16a4dac8" />
 
 
 
-**Пример тестовых данных:**
-* Ввод: `4568`
-* Ожидаемый вывод: `14` (так как 6 + 8 = 14)
 
 ---
 
@@ -42,11 +38,9 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="269" height="203" alt="image" src="https://github.com/user-attachments/assets/1d327769-7f0c-4193-9998-265a16a4dac8" />
+<img width="367" height="95" alt="image" src="https://github.com/user-attachments/assets/b774164f-17c3-4818-830b-3c195ec4593b" />
 
-**Пример тестовых данных:**
-* Ввод: `5` -> Ожидаемый вывод: `True`
-* Ввод: `-3` -> Ожидаемый вывод: `False`
 
 ---
 
