@@ -216,7 +216,8 @@
 
 ### Тестирование
 
-<img width="326" height="199" alt="image" src="https://github.com/user-attachments/assets/b5a01b97-8d29-4015-9561-c0325404616a" />
+<img width="402" height="209" alt="image" src="https://github.com/user-attachments/assets/5d9cc077-92b2-4278-ac7d-e6f52693a6ba" />
+
 
 
 ---
