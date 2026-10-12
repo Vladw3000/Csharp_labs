@@ -17,7 +17,7 @@
 
 ### Тестирование
 
-
+<img width="269" height="203" alt="image" src="https://github.com/user-attachments/assets/1d327769-7f0c-4193-9998-265a16a4dac8" />
 
 
 
@@ -38,7 +38,8 @@
 
 ### Тестирование
 
-<img width="269" height="203" alt="image" src="https://github.com/user-attachments/assets/1d327769-7f0c-4193-9998-265a16a4dac8" />
+<img width="390" height="170" alt="image" src="https://github.com/user-attachments/assets/96dc9cfe-ca9b-4b35-8650-d2ca47dd6c7a" />
+
 <img width="367" height="95" alt="image" src="https://github.com/user-attachments/assets/b774164f-17c3-4818-830b-3c195ec4593b" />
 
 
@@ -59,11 +60,9 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="272" height="130" alt="image" src="https://github.com/user-attachments/assets/85234937-7001-4b1c-834e-d89dfc81fe60" />
+<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/d4fd8ac6-173f-486b-9ed5-786642f82f47" />
 
-**Пример тестовых данных:**
-* Ввод: `D` -> Ожидаемый вывод: `True`
-* Ввод: `q` -> Ожидаемый вывод: `False`
 
 ---
 
@@ -82,11 +81,10 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="276" height="187" alt="image" src="https://github.com/user-attachments/assets/f2053230-4805-46ce-8c75-f2fae4f7ca38" />
+<img width="301" height="191" alt="image" src="https://github.com/user-attachments/assets/4a485de3-8867-45b4-95b2-2478787936a2" />
 
-**Пример тестовых данных:**
-* Ввод: `3`, `6` -> Ожидаемый вывод: `True`
-* Ввод: `2`, `15` -> Ожидаемый вывод: `False`
+
 
 ---
 
@@ -105,11 +103,8 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="261" height="183" alt="image" src="https://github.com/user-attachments/assets/9091c1dd-7100-4f5e-88f4-b244623a9e65" />
 
-**Пример тестовых данных:**
-* Ввод: `5`, `11`, `123`, `14`, `1`
-* Ожидаемый вывод: `4`
 
 ---
 
@@ -130,11 +125,9 @@
 
 ### Тестирование
 
-*[Вставьте сюда скриншот результата работы программы]*
+<img width="260" height="192" alt="image" src="https://github.com/user-attachments/assets/6da1d0e6-3ee5-47af-bc56-af3d1fc86e1f" />
+<img width="261" height="183" alt="image" src="https://github.com/user-attachments/assets/290dffad-2edf-47a2-acaf-0f9c0cf0b2f9" />
 
-**Пример тестовых данных:**
-* Ввод: `8`, `2` -> Ожидаемый вывод: `4`
-* Ввод: `5`, `0` -> Ожидаемый вывод: `0`
 
 ---
 
